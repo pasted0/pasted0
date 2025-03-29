@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasted0</h1>
-<h3 align="center">A Lua & Python developer from The United States of America</h3>
+<h3 align="center">A Lua & JavaScript developer from The United States of America</h3>
 
 - 🔭 I’m currently working on **Inquire**
 

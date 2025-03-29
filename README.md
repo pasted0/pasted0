@@ -5,3 +5,4 @@
 
 - 📫 How to reach me **@pasted0 on discord**
 
+- I mainly make random stuff
